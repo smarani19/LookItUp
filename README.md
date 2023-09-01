@@ -1,0 +1,13 @@
+This tool can be used for information gathering , reconnaisance and more  . 
+It can perform numerous tasks like - 
+
+     ▪ Instagram Username Information
+     ▪ Email Validator 
+     ▪ Whois Lookup 
+     ▪ Geo-location Lookup 
+     ▪ What's My Public IP 
+     ▪ Port Scanner 
+     ▪ URL Expander
+     ▪ URL Safety Check
+     ▪ MAC Address Lookup 
+     ▪ Crypto Address Balance Checker 
