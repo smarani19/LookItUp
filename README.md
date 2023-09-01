@@ -1,4 +1,4 @@
-This tool can be used for information gathering , reconnaisance and more  . 
+This is an OSINT tool that can be used for information gathering, reconnaissance, and more . 
 It can perform numerous tasks like - 
 
      ▪ Instagram Username Information
