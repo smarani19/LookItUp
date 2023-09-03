@@ -1,19 +1,19 @@
 {
-  "name": "vichiti",
+  "name": "Look It Up!",
   "version": "1.0.0",
-  "description": "A OSINT based CLI tool made with Node.js!",
+  "description": "A OSINT-based CLI tool made with Node.js!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [
     "OSINT",
-    "cybersecurity",
-    "infosec",
-    "informationsecurity",
+    "Cybersecurity",
+    "Infosec",
+    "information security",
     "hacking"
   ],
-  "author": "Umair Nehri",
+
   "license": "ISC",
   "dependencies": {
     "align-text": "^1.0.2",
