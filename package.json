@@ -8,12 +8,11 @@
   },
   "keywords": [
     "OSINT",
-    "cybersecurity",
-    "infosec",
-    "informationsecurity",
+    "Cybersecurity",
+    "Infosec",
+    "information security",
     "hacking"
   ],
-  "author": "smarani basu",
   "license": "ISC",
   "dependencies": {
     "align-text": "^1.0.2",
