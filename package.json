@@ -1,7 +1,7 @@
 {
-  "name": "vichiti",
+  "name": "lookitup",
   "version": "1.0.0",
-  "description": "A OSINT based CLI tool made with Node.js!",
+  "description": "An OSINT-based CLI tool made with Node.js!",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -13,7 +13,7 @@
     "informationsecurity",
     "hacking"
   ],
-  "author": "Umair Nehri",
+  "author": "smarani basu",
   "license": "ISC",
   "dependencies": {
     "align-text": "^1.0.2",
@@ -32,5 +32,15 @@
     "save": "^2.4.0",
     "user-instagram": "^2.1.9",
     "whois": "^2.13.3"
-  }
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/smarani19/LookItUp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/smarani19/LookItUp/issues"
+  },
+  "homepage": "https://github.com/smarani19/LookItUp#readme"
 }
+
