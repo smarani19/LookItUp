@@ -2,7 +2,6 @@
 This is an OSINT tool that can be used for information gathering, reconnaissance, and more . 
 It can perform numerous tasks like - 
 
-     ▪ Instagram Username Information
      ▪ Email Validator 
      ▪ Whois Lookup 
      ▪ Geo-location Lookup 
@@ -11,4 +10,4 @@ It can perform numerous tasks like -
      ▪ URL Expander
      ▪ URL Safety Check
      ▪ MAC Address Lookup 
-     ▪ Crypto Address Balance Checker 
+    
